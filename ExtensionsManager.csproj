@@ -7,6 +7,7 @@
     <PackageIcon>favicon-32x32.png</PackageIcon>
     <PackageTags>extensions, manager, helper, convert, classes</PackageTags>
     <Description>A simple extension classes manager</Description>
+    <PackageProjectUrl>https://github.com/rz-georgiev/ExtensionsManager</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,0 +1,15 @@
+E:\Development\ExtensionsManager\ExtensionsManager\bin\Debug\netcoreapp3.1\ExtensionsManager.exe
+E:\Development\ExtensionsManager\ExtensionsManager\bin\Debug\netcoreapp3.1\ExtensionsManager.deps.json
+E:\Development\ExtensionsManager\ExtensionsManager\bin\Debug\netcoreapp3.1\ExtensionsManager.runtimeconfig.json
+E:\Development\ExtensionsManager\ExtensionsManager\bin\Debug\netcoreapp3.1\ExtensionsManager.runtimeconfig.dev.json
+E:\Development\ExtensionsManager\ExtensionsManager\bin\Debug\netcoreapp3.1\ExtensionsManager.dll
+E:\Development\ExtensionsManager\ExtensionsManager\bin\Debug\netcoreapp3.1\ExtensionsManager.pdb
+E:\Development\ExtensionsManager\ExtensionsManager\obj\Debug\netcoreapp3.1\ExtensionsManager.AssemblyInfoInputs.cache
+E:\Development\ExtensionsManager\ExtensionsManager\obj\Debug\netcoreapp3.1\ExtensionsManager.AssemblyInfo.cs
+E:\Development\ExtensionsManager\ExtensionsManager\obj\Debug\netcoreapp3.1\ExtensionsManager.csproj.CoreCompileInputs.cache
+E:\Development\ExtensionsManager\ExtensionsManager\obj\Debug\netcoreapp3.1\ExtensionsManager.dll
+E:\Development\ExtensionsManager\ExtensionsManager\obj\Debug\netcoreapp3.1\ExtensionsManager.pdb
+E:\Development\ExtensionsManager\ExtensionsManager\obj\Debug\netcoreapp3.1\ExtensionsManager.genruntimeconfig.cache
+E:\Development\ExtensionsManager\ExtensionsManager\obj\Debug\netcoreapp3.1\ExtensionsManager.Resources.resources
+E:\Development\ExtensionsManager\ExtensionsManager\obj\Debug\netcoreapp3.1\ExtensionsManager.csproj.GenerateResource.cache
+E:\Development\ExtensionsManager\ExtensionsManager\obj\Debug\netcoreapp3.1\ExtensionsManager.csprojAssemblyReference.cache

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExtensionsManager</id>
+    <version>1.0.0</version>
+    <authors>ExtensionsManager</authors>
+    <owners>ExtensionsManager</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>favicon-32x32.png</icon>
+    <description>A simple extension classes manager</description>
+    <tags>extensions, manager, helper, convert, classes</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Development\ExtensionsManager\ExtensionsManager\bin\Debug\netcoreapp3.1\ExtensionsManager.runtimeconfig.json" target="lib\netcoreapp3.1\ExtensionsManager.runtimeconfig.json" />
+    <file src="E:\Development\ExtensionsManager\ExtensionsManager\bin\Debug\netcoreapp3.1\ExtensionsManager.dll" target="lib\netcoreapp3.1\ExtensionsManager.dll" />
+    <file src="E:\Development\ExtensionsManager\ExtensionsManager\Resources\favicon-32x32.png" target="favicon-32x32.png" />
+  </files>
+</package>

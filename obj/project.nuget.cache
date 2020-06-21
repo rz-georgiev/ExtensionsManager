@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oJPuOR5nu/p78B2w28z1LFpdg3L7biV+9e20uDjekJp6yLhDA9/WcLJ7IZbbt68h4FslKcYtNB5RxmNrW5+8gw==",
+  "success": true,
+  "projectFilePath": "E:\\Development\\ExtensionsManager\\ExtensionsManager\\ExtensionsManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RGeorgiev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
+    "C:\\Users\\RGeorgiev\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\RGeorgiev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.5\\microsoft.netcore.app.host.win-x64.3.1.5.nupkg.sha512",
+    "C:\\Users\\RGeorgiev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -9,3 +9,5 @@ Console.WriteLine(number);
 
 ### Note:  
 Can be found as a nuget package
+
+https://www.nuget.org/packages/ExtensionsManager/
